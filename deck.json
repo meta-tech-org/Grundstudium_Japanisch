@@ -1,0 +1,794 @@
+{
+    "__type__": "Deck",
+    "children": [
+        {
+            "__type__": "Deck",
+            "children": [
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "46e40aaf-d38c-11ec-847f-3c58c2d0fe16",
+                    "deck_config_uuid": "a3685ff6-81d0-11ec-ab30-3c58c2d0fe16",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "googletts-0943d8f9-20827f0b-4de2871d-bcafc180-c5effdd7.mp3",
+                        "googletts-15dd7cb6-e5a17e39-697fb6d8-5a4d92c4-e3611cce.mp3",
+                        "googletts-1bcde60b-3b4d7eea-5aacb7e6-099c74eb-ad0f0c8c.mp3",
+                        "googletts-2040fb5a-7b7bfc11-d0f01cca-2af35082-e2e6e033.mp3",
+                        "googletts-212cb928-c99a26a0-563ff516-68b41ec5-3cd742a1.mp3",
+                        "googletts-259f8e64-b12f721d-059f3dc2-46a579f4-bcc77b85.mp3",
+                        "googletts-2679963f-e908b611-e090fb19-13efcada-aec30593.mp3",
+                        "googletts-287ce77e-25a89a87-375d1001-7ffe4f80-e25bd27e.mp3",
+                        "googletts-28f4f5cc-23c36401-7ba3ded6-fbcede45-d1d5de82.mp3",
+                        "googletts-29e58dcd-cdb44f52-1cbccfb6-27b4d5c8-84395a5c.mp3",
+                        "googletts-2b9f93be-b31a5f55-978414fa-06597e53-c97286a7.mp3",
+                        "googletts-33aaa777-c053d180-18aab85f-ee90587f-87f1f69a.mp3",
+                        "googletts-42472258-6dc53edb-1cb2463f-fae7b06d-5ee5e86e.mp3",
+                        "googletts-46aee069-bea20d96-c301503d-aa9d2c4c-7e095d9d.mp3",
+                        "googletts-6d453f99-3dcbb0fb-a9bc9b7e-1b04d1ca-e6b4d140.mp3",
+                        "googletts-6e99f0d8-cacc64f4-76820bb9-f10efd42-31025646.mp3",
+                        "googletts-70a712d5-3eba665e-85a63568-d477c823-9efb4597.mp3",
+                        "googletts-7a018bc8-75070fd6-2590fcc4-eaa573ee-3a6486ae.mp3",
+                        "googletts-7da12bd7-2f6dbdb0-8e552ea6-6c6cc669-1c33889c.mp3",
+                        "googletts-7dfd8ee3-ff8e1f2b-55e6f7f8-76ebb95d-07485805.mp3",
+                        "googletts-7ea49454-4b7ba861-0bb164da-584a8dab-165b9fb2.mp3",
+                        "googletts-8048ec51-d9cb5cdb-92f688d4-14b50f0f-5988641e.mp3",
+                        "googletts-84c5866d-ad234070-efae924c-c2a99007-946bc70d.mp3",
+                        "googletts-8525974a-6bda8b2b-58df1b1a-af4c1b71-c4e0be29.mp3",
+                        "googletts-8e51166a-270e04e7-86776aaf-adbb950c-d89ac0a4.mp3",
+                        "googletts-95c7f5a0-bf826f20-85526cfa-52eb19e7-4da15209.mp3",
+                        "googletts-95fc2295-9e9311bb-e0082cc7-7a6089fb-87f8bcc9.mp3",
+                        "googletts-98125e88-095d4070-0c1ead47-19708065-8a66b77e.mp3",
+                        "googletts-9dcbab83-aa490a70-06ea40a1-e61daf84-1b9abb12.mp3",
+                        "googletts-ab940af2-a2651095-a288a1d7-7e8a8b65-23cfe2fe.mp3",
+                        "googletts-ac12e1ef-95bb4e5c-5bcf2b8c-8ce7c549-3d6ca2fa.mp3",
+                        "googletts-ae97b988-d0265607-7b7baa78-4879537f-4e30f622.mp3",
+                        "googletts-b676a94b-69eace17-f73317ae-3dcc7ff0-c3fe48db.mp3",
+                        "googletts-c075ca2c-aa30ff50-805e278b-d01433db-aca4a377.mp3",
+                        "googletts-c1a89f80-33fb2514-5151ccb2-483ef24e-ffbe2117.mp3",
+                        "googletts-c462c87f-158e2972-7cdea5c1-caccb0ba-044d2c1e.mp3",
+                        "googletts-d55d5684-9a4ff25e-97d595bb-36712f52-a666ba32.mp3",
+                        "googletts-db97db9b-e5f39633-989ae21e-1bba8f7b-ad06f2d8.mp3",
+                        "googletts-ddebf374-f150b883-c2459c86-6a2e349b-381b3780.mp3",
+                        "googletts-e4b261a8-f09cbf8a-3b56117c-eec83ad5-64521e62.mp3",
+                        "googletts-ef0358fc-7466bc66-cc4c90ec-4364e55a-f70d4a23.mp3",
+                        "googletts-f8adc7df-866b7805-2d9c4ac0-c36e9289-04c0a565.mp3",
+                        "googletts-ff459374-a14dd550-7d74d5fb-9db0f98c-df422a1b.mp3",
+                        "人.png",
+                        "会社.png",
+                        "会社員.png",
+                        "何.png",
+                        "友達.png",
+                        "名前.png",
+                        "妹.png",
+                        "学生.png",
+                        "日本-fbc627801c32ba719bd4773ba2566fb583415ea6.png",
+                        "日本人-8be200d7c5a510729b7a6824fbf74080f18cbfea.png",
+                        "桃.png",
+                        "桜.png",
+                        "私.png",
+                        "私達.png",
+                        "第.png",
+                        "第一課.png",
+                        "花.png",
+                        "薔薇.png",
+                        "課.png",
+                        "車.png",
+                        "郵便局.png",
+                        "銀行.png"
+                    ],
+                    "mid": 1642764739085,
+                    "name": "01 Vokabeln",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "薔薇[ばら]",
+                                "<b>Rose</b>",
+                                "<img src=\"薔薇.png\">",
+                                "[sound:googletts-84c5866d-ad234070-efae924c-c2a99007-946bc70d.mp3]"
+                            ],
+                            "guid": "sA_M~1mvQq",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "第一課[だいっか]",
+                                "<b>erste Lektion</b>",
+                                "<img src=\"第一課.png\">",
+                                "[sound:googletts-ab940af2-a2651095-a288a1d7-7e8a8b65-23cfe2fe.mp3]"
+                            ],
+                            "guid": "CGR_-R@6cR",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ドイツ 人[じん]",
+                                "Deutsch<b>e-/r</b>",
+                                "<img src=\"人.png\">",
+                                "[sound:googletts-8e51166a-270e04e7-86776aaf-adbb950c-d89ac0a4.mp3]"
+                            ],
+                            "guid": "Etz)Y9}wLH",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "学生[がくせい]",
+                                "<b>Student-/in</b>",
+                                "<img src=\"学生.png\">",
+                                "[sound:googletts-33aaa777-c053d180-18aab85f-ee90587f-87f1f69a.mp3]"
+                            ],
+                            "guid": "OTa`xS.c/]",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "銀行[ぎんこう]",
+                                "<b>Bank</b>",
+                                "<img src=\"銀行.png\">",
+                                "[sound:googletts-ddebf374-f150b883-c2459c86-6a2e349b-381b3780.mp3]"
+                            ],
+                            "guid": "e|r+c-Ip83",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "花[はな]",
+                                "<b>Blume</b>",
+                                "<img src=\"花.png\">",
+                                "[sound:googletts-7a018bc8-75070fd6-2590fcc4-eaa573ee-3a6486ae.mp3]"
+                            ],
+                            "guid": "JvJK?kjPo]",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "妹[いもうと]",
+                                "<b>jüngere Schwester</b>",
+                                "<img src=\"妹.png\">",
+                                "[sound:googletts-2679963f-e908b611-e090fb19-13efcada-aec30593.mp3]"
+                            ],
+                            "guid": "jHI]-}gmVH",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "いとこ",
+                                "Cousin/Cousine",
+                                "",
+                                "[sound:googletts-c462c87f-158e2972-7cdea5c1-caccb0ba-044d2c1e.mp3]"
+                            ],
+                            "guid": "tv_WZ%a9*w",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "会社[かいしゃ]",
+                                "<b>Firma, Unternehmen</b>",
+                                "<img src=\"会社.png\">",
+                                "[sound:googletts-7da12bd7-2f6dbdb0-8e552ea6-6c6cc669-1c33889c.mp3]"
+                            ],
+                            "guid": "Hv)6a(c[BO",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "会社[かいしゃ] 員[いん]",
+                                "<b>Firmenangestelle-/r</b>",
+                                "<img src=\"会社員.png\">",
+                                "[sound:googletts-287ce77e-25a89a87-375d1001-7ffe4f80-e25bd27e.mp3]"
+                            ],
+                            "guid": "v0c_`^.*9v",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "コンビニ",
+                                "24-Stunden-Laden, Convenience-Store",
+                                "",
+                                "[sound:googletts-7dfd8ee3-ff8e1f2b-55e6f7f8-76ebb95d-07485805.mp3]"
+                            ],
+                            "guid": "uky[0S=$c<",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "車[くるま]",
+                                "<b>Auto</b>",
+                                "<img src=\"車.png\">",
+                                "[sound:googletts-8525974a-6bda8b2b-58df1b1a-af4c1b71-c4e0be29.mp3]"
+                            ],
+                            "guid": "F9ULU|q&Su",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "桃[もも]",
+                                "<b>Pfirsich</b>",
+                                "<img src=\"桃.png\">",
+                                "[sound:googletts-95fc2295-9e9311bb-e0082cc7-7a6089fb-87f8bcc9.mp3]"
+                            ],
+                            "guid": "6-5$/R!;&",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "名前[なまえ]",
+                                "<b>Name</b>",
+                                "<img src=\"名前.png\">",
+                                "[sound:googletts-2b9f93be-b31a5f55-978414fa-06597e53-c97286a7.mp3]"
+                            ],
+                            "guid": "Df+&*x3ew&",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "日本[にほん]",
+                                "<b>Japan</b>",
+                                "<img src=\"日本-fbc627801c32ba719bd4773ba2566fb583415ea6.png\">",
+                                "[sound:googletts-46aee069-bea20d96-c301503d-aa9d2c4c-7e095d9d.mp3]"
+                            ],
+                            "guid": "o2=5*u-,9W",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "日本人[にほんじん]",
+                                "<b>Japaner-/in</b>",
+                                "<img src=\"日本人-8be200d7c5a510729b7a6824fbf74080f18cbfea.png\">",
+                                "[sound:googletts-ac12e1ef-95bb4e5c-5bcf2b8c-8ce7c549-3d6ca2fa.mp3]"
+                            ],
+                            "guid": "b0Bz4I=wSA",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "桜[さくら]",
+                                "<b>Kirschbaum, Kirschblüte</b>",
+                                "<img src=\"桜.png\">",
+                                "[sound:googletts-ff459374-a14dd550-7d74d5fb-9db0f98c-df422a1b.mp3]"
+                            ],
+                            "guid": "v:Dg]SRi6K",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "スーパー",
+                                "Supermarkt",
+                                "",
+                                "[sound:googletts-1bcde60b-3b4d7eea-5aacb7e6-099c74eb-ad0f0c8c.mp3]"
+                            ],
+                            "guid": "CORJ$MCT]u",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "友達[ともだち]",
+                                "<b>Freund/-in</b>",
+                                "<img src=\"友達.png\">",
+                                "[sound:googletts-259f8e64-b12f721d-059f3dc2-46a579f4-bcc77b85.mp3]"
+                            ],
+                            "guid": "uMbb-NKi#{",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "郵便[ゆうびん] 局[きょく]",
+                                "<b>Postamt</b>",
+                                "<img src=\"郵便局.png\">",
+                                "[sound:googletts-9dcbab83-aa490a70-06ea40a1-e61daf84-1b9abb12.mp3]"
+                            ],
+                            "guid": "y$J#N^:Mk4",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "あそこ",
+                                "dort drüben",
+                                "",
+                                "[sound:googletts-2040fb5a-7b7bfc11-d0f01cca-2af35082-e2e6e033.mp3]"
+                            ],
+                            "guid": "OF^4pw2jfA",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "どこ",
+                                "wo",
+                                "",
+                                "[sound:googletts-db97db9b-e5f39633-989ae21e-1bba8f7b-ad06f2d8.mp3]"
+                            ],
+                            "guid": "C}-S{ub#rW",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "こちら",
+                                "hier, das (ist...)",
+                                "",
+                                "[sound:googletts-212cb928-c99a26a0-563ff516-68b41ec5-3cd742a1.mp3]"
+                            ],
+                            "guid": "fUelc3+l?`",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ここ",
+                                "hier (bei mir)",
+                                "",
+                                "[sound:googletts-b676a94b-69eace17-f73317ae-3dcc7ff0-c3fe48db.mp3]"
+                            ],
+                            "guid": "be0+&:#y!=",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "何[なに]",
+                                "<b>was</b>",
+                                "<img src=\"何.png\">",
+                                "[sound:googletts-ae97b988-d0265607-7b7baa78-4879537f-4e30f622.mp3]"
+                            ],
+                            "guid": "wj<MY{nUi5",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "そこ",
+                                "dort (bei Ihnen)",
+                                "",
+                                "[sound:googletts-15dd7cb6-e5a17e39-697fb6d8-5a4d92c4-e3611cce.mp3]"
+                            ],
+                            "guid": "Ezfhz8qa6?",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "私[わたし]",
+                                "<b>ich</b>",
+                                "<img src=\"私.png\">",
+                                "[sound:googletts-42472258-6dc53edb-1cb2463f-fae7b06d-5ee5e86e.mp3]"
+                            ],
+                            "guid": "GeLp}J&QFa",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "私[わたし] 達[たち]",
+                                "<b>wir</b>",
+                                "<img src=\"私達.png\">",
+                                "[sound:googletts-e4b261a8-f09cbf8a-3b56117c-eec83ad5-64521e62.mp3]"
+                            ],
+                            "guid": "fOl,a*|HH4",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "そう",
+                                "so",
+                                "",
+                                "[sound:googletts-d55d5684-9a4ff25e-97d595bb-36712f52-a666ba32.mp3]"
+                            ],
+                            "guid": "g1AamT7GNM",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ある",
+                                "sich befinden, da sein, sein",
+                                "",
+                                "[sound:googletts-28f4f5cc-23c36401-7ba3ded6-fbcede45-d1d5de82.mp3]"
+                            ],
+                            "guid": "QVOT%~VpIU",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "です",
+                                "sein (zur definitiven Aussage)",
+                                "",
+                                "[sound:googletts-f8adc7df-866b7805-2d9c4ac0-c36e9289-04c0a565.mp3]"
+                            ],
+                            "guid": "KVu$G8CPvt",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ます",
+                                "(zum Ausdruck einer Höflichkeit)",
+                                "",
+                                "[sound:googletts-ef0358fc-7466bc66-cc4c90ec-4364e55a-f70d4a23.mp3]"
+                            ],
+                            "guid": "w/?E{>~pB0",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ん",
+                                "(zur Negation)",
+                                "",
+                                "[sound:googletts-7ea49454-4b7ba861-0bb164da-584a8dab-165b9fb2.mp3]"
+                            ],
+                            "guid": "b&pJWHTagW",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "か",
+                                "(zur Markierung einer Frage)",
+                                "",
+                                "[sound:googletts-29e58dcd-cdb44f52-1cbccfb6-27b4d5c8-84395a5c.mp3]"
+                            ],
+                            "guid": "Pygt/,y:!^",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "も",
+                                "(zur Markierung eines Themas und der Bedeutung \"auch\")",
+                                "",
+                                "[sound:googletts-98125e88-095d4070-0c1ead47-19708065-8a66b77e.mp3]"
+                            ],
+                            "guid": "u}2dv!&#(A",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "の",
+                                "(zur attributiven Bestimmung)",
+                                "",
+                                "[sound:googletts-70a712d5-3eba665e-85a63568-d477c823-9efb4597.mp3]"
+                            ],
+                            "guid": "dQA`p8W.$=",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "と",
+                                "und (Kopulativ: zur vollständigen Aufzählung)",
+                                "",
+                                "[sound:googletts-6e99f0d8-cacc64f4-76820bb9-f10efd42-31025646.mp3]"
+                            ],
+                            "guid": "knIE8=i!IO",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "は",
+                                "(zur Markierung eines Themas)",
+                                "",
+                                "[sound:googletts-8048ec51-d9cb5cdb-92f688d4-14b50f0f-5988641e.mp3]"
+                            ],
+                            "guid": "M(+U2?z!*I",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "はい",
+                                "Ja",
+                                "",
+                                "[sound:googletts-95c7f5a0-bf826f20-85526cfa-52eb19e7-4da15209.mp3]"
+                            ],
+                            "guid": "v)WmxVvy-F",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "いいえ",
+                                "Nein",
+                                "",
+                                "[sound:googletts-0943d8f9-20827f0b-4de2871d-bcafc180-c5effdd7.mp3]"
+                            ],
+                            "guid": "j3}!nhUyRT",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "第[だい]~",
+                                "<b>der/die/das ...ste</b> (Ordinalzahl)",
+                                "<img src=\"第.png\">",
+                                "[sound:googletts-c075ca2c-aa30ff50-805e278b-d01433db-aca4a377.mp3]"
+                            ],
+                            "guid": "k4WY1j$ays",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "~ 課[か]",
+                                "<b>Abteilung ...</b>",
+                                "<img src=\"課.png\">",
+                                "[sound:googletts-c1a89f80-33fb2514-5151ccb2-483ef24e-ffbe2117.mp3]"
+                            ],
+                            "guid": "tQO(|H]iDu",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "~さん",
+                                "Frau, Fräulein, Herr ...",
+                                "",
+                                "[sound:googletts-6d453f99-3dcbb0fb-a9bc9b7e-1b04d1ca-e6b4d140.mp3]"
+                            ],
+                            "guid": "b&o4WE!(Jw",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        }
+                    ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "46e54338-d38c-11ec-86bf-3c58c2d0fe16",
+                    "deck_config_uuid": "a3685ff6-81d0-11ec-ab30-3c58c2d0fe16",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [],
+                    "name": "02 Grammatik",
+                    "notes": []
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "46e5df87-d38c-11ec-adf3-3c58c2d0fe16",
+                    "deck_config_uuid": "a3685ff6-81d0-11ec-ab30-3c58c2d0fe16",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [],
+                    "name": "03 Sätze",
+                    "notes": []
+                }
+            ],
+            "crowdanki_uuid": "46e34764-d38c-11ec-bafc-3c58c2d0fe16",
+            "deck_config_uuid": "a3685ff6-81d0-11ec-ab30-3c58c2d0fe16",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "Buch 1",
+            "notes": []
+        }
+    ],
+    "crowdanki_uuid": "46e28412-d38c-11ec-b9b0-3c58c2d0fe16",
+    "deck_config_uuid": "a3685ff6-81d0-11ec-ab30-3c58c2d0fe16",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "a3685ff6-81d0-11ec-ab30-3c58c2d0fe16",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 1
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 0,
+    "extendRev": 0,
+    "media_files": [],
+    "name": "Grundstudium Japanisch",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n.p-large{\n\tfont-size:40px;\n}",
+            "flds": [
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "name": "Japanisch",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "name": "Deutsch",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "name": "Strichordnung",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "name": "TTS",
+                    "ord": 3,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Japanisch::Vokabel",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ],
+                [
+                    1,
+                    "any",
+                    [
+                        1
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "Übersetze die Vokabel ins Deutsche:<br>\n\n<p class=\"p-large\">{{furigana:Japanisch}}</p>\n{{#TTS}}{{TTS}}{{/TTS}}\n\n<hr id=answer>\n\n\n<p class=\"p-large\">{{Deutsch}}</p>\n<br>\n{{#Strichordnung}}\nStrichordnung:<br>\n{{Strichordnung}}{{/Strichordnung}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Vokabel: Japanisch -> Deutsch",
+                    "ord": 0,
+                    "qfmt": "Übersetze die Vokabel ins Deutsche:<br>\n\n<p class=\"p-large\">{{kanji:Japanisch}}</p>"
+                },
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n<p class=\"p-large\">{{furigana:Japanisch}}</p>\n<br>\n{{#TTS}}<br>{{TTS}}<br>{{/TTS}}\n{{#Strichordnung}}\nStrichordnung:<br>\n{{Strichordnung}}{{/Strichordnung}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Vokabel: Deutsch -> Japanisch",
+                    "ord": 1,
+                    "qfmt": "Übersetze die Vokabel ins Japanische:<br>\n\n<p class=\"p-large\">{{Deutsch}}</p>"
+                }
+            ],
+            "type": 0
+        }
+    ],
+    "notes": []
+}
